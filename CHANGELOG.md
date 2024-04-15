@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.9.0](https://www.github.com/niekwit/snakemake-wrappers/compare/v3.8.0...v3.9.0) (2024-04-15)
+
+
+### Features
+
+* Emu support ([#2792](https://www.github.com/niekwit/snakemake-wrappers/issues/2792)) ([149ef14](https://www.github.com/niekwit/snakemake-wrappers/commit/149ef14dca9d836d297c95cd4e010c360375f51d))
+
 ## [3.8.0](https://www.github.com/snakemake/snakemake-wrappers/compare/v3.7.0...v3.8.0) (2024-04-12)
 
 
