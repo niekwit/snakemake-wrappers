@@ -1,5 +1,33 @@
 # Changelog
 
+## [5.6.0](https://www.github.com/niekwit/snakemake-wrappers/compare/v5.5.2...v5.6.0) (2025-01-30)
+
+
+### Features
+
+* allow snakemake object access in datavzrd config template ([#3598](https://www.github.com/niekwit/snakemake-wrappers/issues/3598)) ([0018aa9](https://www.github.com/niekwit/snakemake-wrappers/commit/0018aa91eda0f99f5dd97ae51a5cdbe8b39b5b32))
+* Deeptools bampefragmentsize ([#3596](https://www.github.com/niekwit/snakemake-wrappers/issues/3596)) ([6e90858](https://www.github.com/niekwit/snakemake-wrappers/commit/6e90858b6410d0087f37615b9d87d138a71a9067))
+
+
+### Performance Improvements
+
+* autobump bio/deeptools/alignmentsieve ([#3604](https://www.github.com/niekwit/snakemake-wrappers/issues/3604)) ([37e698b](https://www.github.com/niekwit/snakemake-wrappers/commit/37e698bd9b6484bcb64cbdc3b0f922a05e8e2344))
+* autobump bio/deeptools/bamcoverage ([#3605](https://www.github.com/niekwit/snakemake-wrappers/issues/3605)) ([6ae4984](https://www.github.com/niekwit/snakemake-wrappers/commit/6ae4984fc9881797fea6ca0961664502e89704d1))
+* autobump bio/deeptools/computematrix ([#3610](https://www.github.com/niekwit/snakemake-wrappers/issues/3610)) ([e65b8b7](https://www.github.com/niekwit/snakemake-wrappers/commit/e65b8b79a621d82681071fe2563eff5f581f4bef))
+* autobump bio/deeptools/multibigwigsummary ([#3601](https://www.github.com/niekwit/snakemake-wrappers/issues/3601)) ([92db3d9](https://www.github.com/niekwit/snakemake-wrappers/commit/92db3d9dbba12040847b39dc541a92432ada11b5))
+* autobump bio/deeptools/plotcorrelation ([#3603](https://www.github.com/niekwit/snakemake-wrappers/issues/3603)) ([d88799d](https://www.github.com/niekwit/snakemake-wrappers/commit/d88799d7f5a7e60d1969509f7f8c036657d5a1b4))
+* autobump bio/deeptools/plotcoverage ([#3608](https://www.github.com/niekwit/snakemake-wrappers/issues/3608)) ([71d12f8](https://www.github.com/niekwit/snakemake-wrappers/commit/71d12f8716023c18393e3a7b6b88c530de8d5e83))
+* autobump bio/deeptools/plotfingerprint ([#3606](https://www.github.com/niekwit/snakemake-wrappers/issues/3606)) ([d4338f7](https://www.github.com/niekwit/snakemake-wrappers/commit/d4338f743557687b6f4092088284f2a994aa59e6))
+* autobump bio/deeptools/plotheatmap ([#3609](https://www.github.com/niekwit/snakemake-wrappers/issues/3609)) ([37193fa](https://www.github.com/niekwit/snakemake-wrappers/commit/37193fa225a95712fb0dd59f614f3ffd8294c4c4))
+* autobump bio/deeptools/plotprofile ([#3602](https://www.github.com/niekwit/snakemake-wrappers/issues/3602)) ([f8a73d7](https://www.github.com/niekwit/snakemake-wrappers/commit/f8a73d7e11b7e209a5336f8a68bcb2c3a57fcb3e))
+* autobump bio/emu/abundance ([#3611](https://www.github.com/niekwit/snakemake-wrappers/issues/3611)) ([05184ad](https://www.github.com/niekwit/snakemake-wrappers/commit/05184ad3470baa2d2a8ea10544d458c78dffeaa3))
+* autobump bio/emu/collapse-taxonomy ([#3613](https://www.github.com/niekwit/snakemake-wrappers/issues/3613)) ([6da07c9](https://www.github.com/niekwit/snakemake-wrappers/commit/6da07c9034ad28df0f570c65734379ccbc00e901))
+* autobump bio/emu/combine-outputs ([#3612](https://www.github.com/niekwit/snakemake-wrappers/issues/3612)) ([8e3ac2b](https://www.github.com/niekwit/snakemake-wrappers/commit/8e3ac2b0b1b8b526fccabe37ff724a92ccb33399))
+* autobump bio/multiqc ([#3614](https://www.github.com/niekwit/snakemake-wrappers/issues/3614)) ([b4cfe2c](https://www.github.com/niekwit/snakemake-wrappers/commit/b4cfe2c127f9e01f3b01575ece27b56326767a0f))
+* autobump bio/varlociraptor/estimate-alignment-properties ([#3546](https://www.github.com/niekwit/snakemake-wrappers/issues/3546)) ([2686e34](https://www.github.com/niekwit/snakemake-wrappers/commit/2686e34f86a5ae30735c22d2666caad8bf936d7a))
+* autobump bio/whatshap/haplotag ([#3616](https://www.github.com/niekwit/snakemake-wrappers/issues/3616)) ([33d5b76](https://www.github.com/niekwit/snakemake-wrappers/commit/33d5b7669a38be02839a8c9c2f9533bd5cca4e4d))
+* autobump utils/datavzrd ([#3600](https://www.github.com/niekwit/snakemake-wrappers/issues/3600)) ([3fa9fb5](https://www.github.com/niekwit/snakemake-wrappers/commit/3fa9fb5bb4245653156319eba26f8efb8b309e95))
+
 ### [5.5.2](https://www.github.com/snakemake/snakemake-wrappers/compare/v5.5.1...v5.5.2) (2025-01-17)
 
 
