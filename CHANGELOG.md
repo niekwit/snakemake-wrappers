@@ -1,5 +1,12 @@
 # Changelog
 
+### [5.7.1](https://www.github.com/niekwit/snakemake-wrappers/compare/v5.7.0...v5.7.1) (2025-02-12)
+
+
+### Performance Improvements
+
+* Update datavzrd wrapper to 2.50.5 ([#3646](https://www.github.com/niekwit/snakemake-wrappers/issues/3646)) ([c4d0692](https://www.github.com/niekwit/snakemake-wrappers/commit/c4d0692629542bf7214b14c19fc2936a9678281b))
+
 ## [5.7.0](https://www.github.com/snakemake/snakemake-wrappers/compare/v5.6.1...v5.7.0) (2025-02-07)
 
 
